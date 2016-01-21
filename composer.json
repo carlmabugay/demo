@@ -1,0 +1,13 @@
+{
+    "name": "carlmabugay/demo",
+    "description": "Demo package for upcoming projects.",
+    "keywords": ["laravel", "demo"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Carl Mabugay",
+            "email": "carl.mabugay@gmail.com"
+        }
+    ],
+
+}
