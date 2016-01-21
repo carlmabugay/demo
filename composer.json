@@ -9,5 +9,5 @@
             "email": "carl.mabugay@gmail.com"
         }
     ],
-
+    "minimum-stability": "dev"
 }
